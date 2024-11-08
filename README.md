@@ -23,9 +23,14 @@ Data was sourced from [Screener.in](https://www.screener.in/company/LTFOODS/cons
 ### Data Preparation
 Data preparation included cleaning, formatting, and structuring financial data for accuracy. Key steps involved managing missing values, categorizing data (e.g., revenue, expenses), and reformatting data for smooth analysis.
 
+---
+
 ### Data Modelling
 This phase focused on structuring data to highlight meaningful insights. Data groupings for revenue, expenses, assets, and liabilities were created to analyze trends over time, alongside models to compute essential financial ratios.
 
+![Data Modelling](https://github.com/user-attachments/assets/22d9c7a3-5cbe-4c4a-9d77-a6691d919fb7)
+
+---
 
 ### Data Analysis
 Key areas of analysis included:
@@ -33,6 +38,11 @@ Key areas of analysis included:
 - **Expense Distribution**: Breakdown of costs, such as COGS, for efficiency insights.
 - **Profitability**: Analysis of Gross Profit, EBITDA, and PAT margins.
 - **Ratio Analysis**: Examined Debt-to-Equity, ROE, and ROCE for financial stability.
+
+---
+
+![1- LT Foods Financial Analysis](https://github.com/user-attachments/assets/e44fd861-a1ba-4404-90cb-8599329e3ae3)
+
 
 ### Conclusion
 The analysis revealed LT Foods Ltd’s financial strengths, including steady sales growth, efficient expense management, and a balanced asset-liability structure. This comprehensive financial overview highlights the company's operational effectiveness and areas for future optimization.
