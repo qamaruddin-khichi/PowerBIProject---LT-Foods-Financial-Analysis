@@ -1,5 +1,7 @@
 # LT Foods Ltd Financial Analysis
 
+Explore the interactive dashboard: [LT Foods Financial Analysis Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTAxZmM2YTctNzE3NS00MWU5LWE1MmYtNTBkMTdlMjFlODkwIiwidCI6IjU0MTM4MTA5LTNiOGEtNDMzNy1hYzk2LTY4ZDE4ODM0NmNhOCIsImMiOjl9)
+
 ## Table of Contents
 - [About the Company](#about-the-company)
 - [Problem Statement](#problem-statement)
